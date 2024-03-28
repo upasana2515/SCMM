@@ -1,3 +1,4 @@
+//Q1. Convertion from kg into m,feet,inches,centimeter.
 #include<stdio.h>
 int main(){
     float d,m,feet,inches,centi;
@@ -13,4 +14,3 @@ int main(){
     printf("distance in centi=%f\n",centi);
 return 0;
 }
-//hello
